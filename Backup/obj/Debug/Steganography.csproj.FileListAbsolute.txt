@@ -1,0 +1,9 @@
+D:\STEGPIXEL\Backup\bin\Debug\Steganography.exe
+D:\STEGPIXEL\Backup\bin\Debug\Steganography.pdb
+D:\STEGPIXEL\Backup\obj\Debug\Steganography.csprojResolveAssemblyReference.cache
+D:\STEGPIXEL\Backup\obj\Debug\Text2Image.FrmSteganography.resources
+D:\STEGPIXEL\Backup\obj\Debug\Steganography.Properties.Resources.resources
+D:\STEGPIXEL\Backup\obj\Debug\Steganography.csproj.GenerateResource.Cache
+D:\STEGPIXEL\Backup\obj\Debug\Steganography.exe
+D:\STEGPIXEL\Backup\obj\Debug\Steganography.pdb
+D:\STEGPIXEL\Backup\bin\Debug\Steganography.exe.config
